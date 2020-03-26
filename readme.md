@@ -1,3 +1,4 @@
+Ligne ajoutée au début
 Ligne 0 : début du fichier 
 Ligne 1 : bonjour
 Ligne 1.1 : Insertion d'une ligne
